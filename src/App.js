@@ -1,11 +1,11 @@
 import React from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
-import Header from './src/components/Header';
-import Footer from './src/components/Footer';
-import About from './src/pages/About';
-import Portfolio from './src/pages/Portfolio';
-import Contact from './src/pages/Contact';
-import Resume from './src/pages/Resume';
+import Header from './components/Header';
+import Footer from './components/Footer';
+import About from './pages/About';
+import Portfolio from './pages/Portfolio';
+import Contact from './pages/Contact';
+import Resume from './pages/Resume';
 
 const App = () => {
   return (
